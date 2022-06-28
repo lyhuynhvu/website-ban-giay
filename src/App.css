@@ -36,3 +36,78 @@
     transform: rotate(360deg);
   }
 }
+
+.product{
+  text-align: center;
+  font-weight: 900;
+  background-color :darkgrey
+
+}
+
+.menu-product{
+  background-color:azure;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.menu-bar{
+  background-color:darkgray;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  font-size: large;
+  font-weight: 700;
+}
+
+.pay{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.top-head{
+  margin-right: 155px;
+}
+
+.acc{
+  width: 475px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.connect{
+  width: 375px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.about{
+  font-weight: 900;
+}
+
+.us{
+  margin-top: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chungtoi{
+  max-width: 50%;
+  margin: unset;
+}
+
+.logo{
+  margin-left: 35%;
+}
+
+.image{
+  margin-top: 0;
+}
